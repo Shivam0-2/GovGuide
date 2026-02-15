@@ -16,43 +16,43 @@
    
    Citizens often miss benefits due to:
    
-  -> scattered information across portals
+     -> scattered information across portals
   
-  -> difficult policy language
+     -> difficult policy language
   
-  -> unclear and overlapping eligibility rules
+     -> unclear and overlapping eligibility rules
 
 5. Solution
    GovGuide captures citizen demographics and socio-economic inputs, applies AI-based policy understanding, and delivers transparent recommendations along with clear application pathways.
 
 6. Functional Requirements:
    
-  -> Capture and structure user profile information
+     -> Capture and structure user profile information
   
-  -> Interpret eligibility using AI reasoning
+     -> Interpret eligibility using AI reasoning
   
-  -> Recommend relevant schemes
+     -> Recommend relevant schemes
   
-  -> Provide “why you qualify” explanations
+     -> Provide “why you qualify” explanations
   
-  -> Identify required documents
+     -> Identify required documents
   
-  -> Generate step-by-step application guidance
+     -> Generate step-by-step application guidance
 
 7. Non-Functional Requirements:
    
-  -> Scalable and modular
+     -> Scalable and modular
   
-  -> Easy to use
+     -> Easy to use
   
-  -> Inclusive and multilingual ready
+     -> Inclusive and multilingual ready
   
-  -> Privacy-respecting
+     -> Privacy-respecting
   
-  -> Transparent outputs
+     -> Transparent outputs
 
 9. Data Strategy:
     
-  -> Uses publicly available scheme information
+     -> Uses publicly available scheme information
    
-  -> Employs synthetic profiles for validation and testing
+     -> Employs synthetic profiles for validation and testing
